@@ -15,4 +15,4 @@ Make sure to copy and paste these into the console.
 <code>BULLET_LIFE=100</code>
 
 ### Plane
-<code>↑↑↓↓←→←→BA</code>
+Type the arrow keys in this order: ↑↑↓↓←→←→BA
