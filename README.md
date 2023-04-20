@@ -21,8 +21,7 @@ Make sure to copy and paste these into the console.
 Type the arrow keys in this order: ↑↑↓↓←→←→BA
 
 ## Copy + Paste
-<code>
-tanks[0].health=Infinity
+<code>tanks[0].health=Infinity
 TANK_FORWARD_SPEED=150
 TANK_REVERSE_SPEED=150
 SHOOT_DELAY=0
