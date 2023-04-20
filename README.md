@@ -14,6 +14,9 @@ Make sure to copy and paste these into the console.
 ### Bullet Delay
 <code>SHOOT_DELAY=0</code>
 
+### Bullet Speed
+<code>BULLET_SPEED=250</code>
+
 ### Bullet Life
 <code>BULLET_LIFE=100</code>
 
@@ -25,5 +28,6 @@ Type the arrow keys in this order: ↑↑↓↓←→←→BA
 TANK_FORWARD_SPEED=150
 TANK_REVERSE_SPEED=150
 SHOOT_DELAY=0
+BULLET_SPEED=250
 BULLET_LIFE=100
 </code>
