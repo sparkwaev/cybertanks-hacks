@@ -1,5 +1,9 @@
 # cybertanks-hacks
 All Cybertanks hacks in one file.
+
+> <h1>Important Note</h1>
+> Make sure to check the script.js file.
+
 Make sure to copy and paste these into the console.
 
 ### Health
@@ -23,7 +27,7 @@ Make sure to copy and paste these into the console.
 ### Plane
 Type the arrow keys in this order: ↑↑↓↓←→←→BA
 
-## Copy + Paste
+## Optimized Copy + Paste
 <code>tanks[0].health=Infinity
 TANK_FORWARD_SPEED=150
 TANK_REVERSE_SPEED=150
