@@ -1,6 +1,6 @@
 tanks[0].health=Infinity;
-TANK_FORWARD_SPEED = int(input("Enter tank forward speed: "))
-TANK_REVERSE_SPEED = int(input("Enter tank reverse speed: "))
-SHOOT_DELAY = 0
-BULLET_LIFE = int(input("Enter bullet life: "))
-BULLET_SPEED = int(input("Enter bullet speed: "))
+let TANK_FORWARD_SPEED = parseInt(prompt("Enter tank forward speed: "));
+let TANK_REVERSE_SPEED = parseInt(prompt("Enter tank reverse speed: "));
+let SHOOT_DELAY = 0;
+let BULLET_LIFE = parseInt(prompt("Enter bullet life: "));
+let BULLET_SPEED = parseInt(prompt("Enter bullet speed: "));
