@@ -1,6 +1,6 @@
 tanks[0].health=Infinity;
-TANK_FORWARD_SPEED=150;
-TANK_REVERSE_SPEED=150;
-SHOOT_DELAY=0;
-BULLET_LIFE=100;
-BULLET_SPEED=100;
+TANK_FORWARD_SPEED = int(input("Enter tank forward speed: "))
+TANK_REVERSE_SPEED = int(input("Enter tank reverse speed: "))
+SHOOT_DELAY = 0
+BULLET_LIFE = int(input("Enter bullet life: "))
+BULLET_SPEED = int(input("Enter bullet speed: "))
