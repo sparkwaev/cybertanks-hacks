@@ -1,8 +1,7 @@
 # cybertanks-hacks
 All Cybertanks hacks in one file.
 
-> <h1>Important Note</h1>
-> Make sure to check the script.js file.
+Make sure to check the <a href="script.js">script.js</a> file.
 
 Make sure to copy and paste these into the console.
 
