@@ -2,7 +2,7 @@
 All Cybertanks hacks in one file.
 Make sure to check the <a href="script.js">script.js</a> file.
 
-Copy this short link: <code>&lt;script src="https://raw.githubusercontent.com/pulsedrift/cybertanks-hacks/main/script.js”></script&>;</code>
+Copy this short link: <code>&lt;script src="https://raw.githubusercontent.com/pulsedrift/cybertanks-hacks/main/script.js”></script>;</code>
 
 ### Health
 <code>tanks[0].health=Infinity</code>
